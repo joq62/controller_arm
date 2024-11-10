@@ -8,7 +8,7 @@
   0},
  {<<"control_server">>,
   {git,"https://github.com/joq62/control_server.git",
-       {ref,"2ca6d37bb930840b0b03be348f215d14499a11f8"}},
+       {ref,"31ff09b8c2dacaea7998e1b2e2160030772208b6"}},
   0},
  {<<"host_server">>,
   {git,"https://github.com/joq62/host_server.git",
@@ -20,5 +20,5 @@
   0},
  {<<"rd">>,
   {git,"https://github.com/joq62/rd.git",
-       {ref,"dd0eb6d9f932df1ce54b1764d428dbb89a0705a7"}},
+       {ref,"9fd05e185cb579fa031fd925d5190eef5a3db4cb"}},
   0}].

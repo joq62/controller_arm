@@ -12,8 +12,6 @@ all:
 	rm -rf *_container;
 	rm -rf tar_dir;
 	#INFO: Compile application
-	rm -rf common_include;
-	cp -r ~/erlang/common_include .
 	rebar3 compile;
 	rebar3 release;
 	rebar3 as prod tar;
